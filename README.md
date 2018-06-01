@@ -1,5 +1,5 @@
 Mars Rover Exercise
-Please prepare a solution in C# for the following problem. You can follow any development methodology you wish for this. The interviewer will be interested in the following
+Please prepare a solution in C# for the following problem.
 -	Understanding of the problem and approach
 -	Code design and architecture
 -	Unit testing
