@@ -1,4 +1,5 @@
-Mars Rover Exercise
+                                                          Mars Rover Exercise.
+
 Please prepare a solution in C# for the following problem.
 -	Understanding of the problem and approach
 -	Code design and architecture
